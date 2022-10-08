@@ -1,11 +1,7 @@
-@font-face {
-	font-family: Gotham Rounded;
-	src: url("font.otf") format("opentype");
-}
 
 *, *::before, *::after {
 	box-sizing: border-box;
-	font-family: Gotham Rounded;
+	
 }
 
 body {
@@ -17,7 +13,7 @@ body {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background: url("bg.jpeg") no-repeat fixed center;
+	background: #5b43d0;
 	background-size: cover;
 }
 
@@ -27,7 +23,7 @@ body {
 }
 
 .black {
-	background-color: black;
+	background-color: white;
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
@@ -44,17 +40,17 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #f7ce6a;
+	background-color: #ff6a00;
 	outline: none;
-	color: black;
+	color: white;
 	text-decoration: none;
 }
 
 .black h1 {
-	color: yellow;
+	color: #ffad00;
 }
 
 .black p {
 	font-size: 18px;
-	color: white;
+	
 }
