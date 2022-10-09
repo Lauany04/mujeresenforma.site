@@ -13,7 +13,7 @@ body {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background:#ffeeee;
+	background:#ffccd1;
 	background-size: cover;
 }
 
@@ -40,20 +40,20 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #e32929;
+	background-color:#de1f1f;
 	outline: none;
 	color: white;
 	text-decoration: none;
 }
 
-.black h1 {
-	color: #cacaca;
-}
-
-.black p {
-	font-size: 18px;
+h1{
 	color:#cacaca;
 }
-	text-decoration: none;
+
+.question p {
+	font-size:18px;
+	
+}
+	text-decoration:none;
 }
 
