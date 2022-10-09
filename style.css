@@ -13,7 +13,7 @@ body {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background: #5b43d0;
+	background:#ffeeee;
 	background-size: cover;
 }
 
@@ -40,14 +40,14 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #ff6a00;
+	background-color: #e32929;
 	outline: none;
 	color: white;
 	text-decoration: none;
 }
 
 .black h1 {
-	color: #ffad00;
+	color: #cacaca;
 }
 
 .black p {
@@ -57,12 +57,3 @@ body {
 	text-decoration: none;
 }
 
-.black h1 {
-	color: #000;
-}
-
-.black p {
-	font-size: 18px;
-	color:#cacaca;
-	
-}
